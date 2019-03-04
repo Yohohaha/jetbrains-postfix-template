@@ -1,0 +1,7 @@
+## Jsoup Utils ##
+
+.doc : Jsoup.parse()
+  java.lang.String [org.jsoup.Jsoup]  →  Jsoup.parse($expr$)
+
+.text : Elements.text
+  org.jsoup.select.Elements [org.jsoup.select.Elements]  → $expr$.text()
