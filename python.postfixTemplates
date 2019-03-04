@@ -1,24 +1,24 @@
 .for : forin
-  ANY  →  for $VAR0$ in $expr$:\
+	ANY  →  for $VAR0$ in $expr$:\
     $END$
 
 .For : forin
-  ANY  →  for $VAR0$ in $expr$:\
+	ANY  →  for $VAR0$ in $expr$:\
     $END$
 
 .FOr : forin
-  ANY  →  for $VAR0$ in $expr$:\
+	ANY  →  for $VAR0$ in $expr$:\
     $END$
 
 .FOR : forin
-  ANY  →  for $VAR0$ in $expr$:\
+	ANY  →  for $VAR0$ in $expr$:\
     $END$
 
 .sa : self assign
-  ANY  →  $VAR0$ = $expr$$END$
+	ANY  →  $VAR0$ = $expr$$END$
 
 .Sa : self assign
-  ANY  →  $VAR0$ = $expr$$END$
+	ANY  →  $VAR0$ = $expr$$END$
 
 .SA : self assign
-  ANY  →  $VAR0$ = $expr$$END$
+	ANY  →  $VAR0$ = $expr$$END$
