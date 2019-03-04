@@ -1,0 +1,7 @@
+## Apache Commons Utils ##
+
+.subs : StringUtils.substring()
+  java.lang.String [org.apache.commons.lang3.StringUtils]  →  org.apache.commons.lang3.StringUtils.substring($expr$, $start$, $end$)
+
+.rmv : StringUtils.remove()
+  java.lang.String [org.apache.commons.lang3.StringUtils]  →  org.apache.commons.lang3.StringUtils.replace($expr$, $start$, $end$)
