@@ -3,5 +3,5 @@
 .subs : StringUtils.substring()
 	java.lang.String [org.apache.commons.lang3.StringUtils]  →  org.apache.commons.lang3.StringUtils.substring($expr$, $start$, $end$)
 
-.rpl : StringUtils.replace()
+.rep : StringUtils.replace()
 	java.lang.String [org.apache.commons.lang3.StringUtils]  →  org.apache.commons.lang3.StringUtils.replace($expr$, $start$, $end$)
