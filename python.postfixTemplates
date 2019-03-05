@@ -22,3 +22,6 @@
 
 .SA : self assign
 	ANY  →  $VAR0$ = $expr$$END$
+
+.parenthesis : parenthesis
+	ANY  →  $END.($expr$)
