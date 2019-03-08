@@ -1,0 +1,4 @@
+## Java Syntax Utils ##
+
+.parenthesis : auto parenttheis
+	ANY  →  ($expr$)
