@@ -1,4 +1,4 @@
 ## Java Syntax Utils ##
 
-.parenthesis : auto parenttheis
+.pa : auto parenttheis
 	ANY  →  $END$($expr$)
