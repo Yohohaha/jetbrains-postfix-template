@@ -1,4 +1,6 @@
 ## language shortcuts ##
 
 .for : forexp
-	ANY  →  ($expr$)
+	ANY  →  for ($NAME$ <- $expr$) {
+        $END$
+    }
