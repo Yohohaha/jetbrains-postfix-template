@@ -1,6 +1,6 @@
 ## Scala Language Shortcuts ##
 
 .for : for
-	scala.collection.TraversableOnce  →  for ($NAME$ <- $expr$) {
+	ANY  →  for ($NAME$ <- $expr$) {
 $END$
 }
