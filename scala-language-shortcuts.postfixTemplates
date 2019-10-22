@@ -1,4 +1,4 @@
 ## language shortcuts ##
 
-.for : for
+.for : forexp
 	Any  →  ($expr$)
