@@ -1,6 +1,4 @@
 ## Scala Language Shortcuts ##
 
 .for : for
-	ANY  →  for ($NAME$ <- $expr$) {
-$END$
-}
+	ANY  →  for ($NAME$ <- $expr$) {$END$}
